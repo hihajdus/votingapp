@@ -1,13 +1,15 @@
 {
+  "homepage": "http://hihajdus.github.io/votingapp",
   "name": "votingapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-dom": "^16.8.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -21,5 +23,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "build": "^0.1.4",
+    "create-react-app": "^2.1.8",
+    "eslint-plugin-react": "^7.12.4",
+    "gh-pages": "^2.0.1",
+    "react-scripts": "^2.1.8",
+    "start": "^5.1.0"
+  }
 }
