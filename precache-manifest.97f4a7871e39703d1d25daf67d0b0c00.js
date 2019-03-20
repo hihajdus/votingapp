@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/votingapp/static/js/runtime~main.5b110733.js"
   },
   {
-    "revision": "56b26f65964f30f5e34f",
-    "url": "/votingapp/static/js/main.5f259b86.chunk.js"
+    "revision": "7b4b344be3e56537498e",
+    "url": "/votingapp/static/js/main.632a7e7d.chunk.js"
   },
   {
     "revision": "ac164eeb7fe39897100f",
     "url": "/votingapp/static/js/2.aa7a0768.chunk.js"
   },
   {
-    "revision": "56b26f65964f30f5e34f",
-    "url": "/votingapp/static/css/main.4b5533b4.chunk.css"
+    "revision": "7b4b344be3e56537498e",
+    "url": "/votingapp/static/css/main.edcc109f.chunk.css"
   },
   {
-    "revision": "93efe82b7289e44fbd785e71f016726f",
+    "revision": "578a6763dca083fef23998826242f6fc",
     "url": "/votingapp/index.html"
   }
 ];
